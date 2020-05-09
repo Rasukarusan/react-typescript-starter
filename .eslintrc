@@ -15,13 +15,6 @@
     "prettier/@typescript-eslint"
   ],
   "rules": {
-    "prettier/prettier": [
-      "error",
-      {
-        "singleQuote": true,
-        "trailingComma": "es5",
-        "semi": false
-      }
-    ]
+    "prettier/prettier": "error"
   }
 }
